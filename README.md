@@ -1,0 +1,1 @@
+This repo contains a latex file and pdf file which can produce an application form for Economically Weaker Section (EWS) certificate application form. Indian government has introduced 10% reservation for EWS category. Search internet for more details. 
